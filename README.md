@@ -1,3 +1,4 @@
+
 # Alexey Drulis homeworks repo for Netology DevOps course
 
 ## Terraform gitignore 
